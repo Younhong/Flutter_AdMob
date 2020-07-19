@@ -1,4 +1,4 @@
-# awesome_drawing_quiz
+# Flutter Admob Practice
 
 Sample app for &#x27;Adding AdMob Ads to a Flutterr app&#x27; Codelab.
 
